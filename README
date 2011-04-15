@@ -1,0 +1,15 @@
+This project is a Java application that can be used along side the Google Closure compiler and Maven to automate Javascript obfuscation.
+
+Further Info:
+
+Closure Compiler
+http://code.google.com/closure/compiler/docs/gettingstarted_ui.html
+
+Maven
+http://maven.apache.org/
+
+Exec Java Maven Plugin
+http://mojo.codehaus.org/exec-maven-plugin/java-mojo.html
+
+Blog post explaining usage
+
