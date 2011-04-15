@@ -1,6 +1,6 @@
 This project is a Java application that can be used along side the Google Closure compiler and Maven to automate Javascript obfuscation.
 
-After cloning the repository simple execute:
+After cloning the repository simply execute:
 
 $ mvn exec:java
 
