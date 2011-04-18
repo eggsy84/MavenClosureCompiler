@@ -4,7 +4,7 @@ After cloning the repository simply execute:
 
 $ mvn exec:java
 
-To perform obfuscation
+To perform obfuscation of the test javascript located in the src/main/webapp/scripts folder
 
 Further Info:
 
@@ -18,4 +18,4 @@ Exec Java Maven Plugin
 http://mojo.codehaus.org/exec-maven-plugin/java-mojo.html
 
 Blog post explaining usage
-
+http://eggsylife.co.uk/2011/04/18/obfuscating-javascript-with-maven-and-google-closure/
